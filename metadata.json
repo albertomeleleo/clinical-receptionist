@@ -1,0 +1,7 @@
+{
+  "name": "Clinica San Nicola - Agente Vocale",
+  "description": "Un assistente vocale per la gestione appuntamenti di una clinica medica a Bari, alimentato da Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
